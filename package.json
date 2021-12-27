@@ -1,0 +1,20 @@
+{
+    "name": "@myutil/nameparse",
+    "version": "1.0.0",
+    "description": "Splits full name to first, middle, last, suffix and prefixes",
+    "license": "MIT",
+    "repository": "vkcg/nameparse",
+    "main": "index.js",
+    "keywords": [
+      "nameparse",
+      "npm",
+      "package",
+      "name",
+      "name split",
+      "split",
+      "full name",
+      "first name",
+      "middle name",
+      "last name"
+    ]
+}
